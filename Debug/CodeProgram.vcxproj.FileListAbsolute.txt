@@ -1,0 +1,2 @@
+F:\workshop\c++\CodeProgram\Debug\CodeProgram.exe
+F:\workshop\c++\CodeProgram\Debug\CodeProgram.pdb
